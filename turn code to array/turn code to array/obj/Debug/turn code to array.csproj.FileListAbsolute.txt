@@ -1,0 +1,6 @@
+D:\Assembler\turn code to array\turn code to array\bin\Debug\turn code to array.exe.config
+D:\Assembler\turn code to array\turn code to array\bin\Debug\turn code to array.exe
+D:\Assembler\turn code to array\turn code to array\bin\Debug\turn code to array.pdb
+D:\Assembler\turn code to array\turn code to array\obj\Debug\turn code to array.csprojResolveAssemblyReference.cache
+D:\Assembler\turn code to array\turn code to array\obj\Debug\turn code to array.exe
+D:\Assembler\turn code to array\turn code to array\obj\Debug\turn code to array.pdb
